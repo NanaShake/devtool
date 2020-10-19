@@ -1,0 +1,8 @@
+syntax = "proto3";
+package error;
+
+// 错误码
+message StateCode {
+  int32 id = 1;
+  string msg = 2;
+}
