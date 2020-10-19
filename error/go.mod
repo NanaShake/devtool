@@ -1,4 +1,4 @@
-module github.com/NanaShake/testify/error
+module github.com/NanaShake/devtool/error
 
 go 1.14
 
