@@ -1,5 +1,5 @@
 syntax = "proto3";
-package error;
+package errs;
 
 // 错误码
 message StateCode {
