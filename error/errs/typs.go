@@ -1,7 +1,7 @@
 package errs
 
 // 错误级别
-type Level int
+type Level int32
 
 const (
 	Success     Level = 0     // 成功
